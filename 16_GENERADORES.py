@@ -2,7 +2,7 @@
 #Son estructuras que extraen valores de una funcion y se almacena en objetos iterables(Que se pueden recorrer)
 #Estos valores se almacenan de uno en uno
 #Cada vez que un generador almacena un valor, esta permanece en un estado pausado hasta que se solicita el siguiente.
-#Esta caracteristica, es conocicda como "suspension de estado".
+#Esta caracteristica, es conocida como "suspension de estado".
 
 #Que utilidad tienen:
 #son mas eficientes que las funciones tradicionales
