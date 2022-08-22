@@ -5,7 +5,7 @@ miConexion = mysql.connector.connect(
     host = "localhost",
     user = "root",
     passwd = "ponermicontraseña", 
-    db = "obras"   
+    db = "nombredelabasededatos"   
 )#host, usuario, contraseña y nombre de la base de datos, obligatorio para establecer la conexion.
 
 if miConexion.is_connected(): #conprobamos que la conexion se establece correctamente
