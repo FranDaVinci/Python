@@ -4,7 +4,7 @@ import mysql.connector
 miConexion = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    passwd = "albayviola996690", 
+    passwd = "ponermicontraseña", 
     db = "obras"   
 )#host, usuario, contraseña y nombre de la base de datos, obligatorio para establecer la conexion.
 
